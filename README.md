@@ -2,7 +2,9 @@
 
 ## Project Description
 
-This project was originally intended to test and show the skills I had at the time. The tool is meant to be used by store managers and associates so they can keep track of their stores, employees, managers, and more. This was inspired by my work, which ran on a similar system.
+This project was originally intended to test and show the skills I had at the time. The tool is to be used by store managers to keep track of their stores, employees, and managers. My inspiration for this project was my work; they had a very similar system.
+
+This tool starts with the owner creating a profile (in future updates, this data will be stored in the cloud to be reused). After filling out their information, they would start creating profiles for their stores. Each store would have its employees and managers; each manager would have their salary and managing section; and each employee would have their wages and their position. The owner can fill in employee and manager information by importing text files or manually entering them. Once an owner's file is complete, he can export a list of all his stores in a .txt file.
 
 ## Technologies Used
 
