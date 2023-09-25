@@ -1,5 +1,4 @@
-# Linked-List-Project1
-Manager's Tool
+# Linked-List-Project1 - Manager's Tool
 
 ## Project Description
 
@@ -18,9 +17,9 @@ This project was originally intended to test and show the skills I had at the ti
 
 ## Features
 
-This tool is almost impossible to crash. It has been 99% dummy-proofed.
-uses JOptionPanes for a cleaner user interface.
-can have information imported and exported from and to many text files.
+- This tool is almost impossible to crash. It has been 99% dummy-proofed.
+- Uses JOptionPanes for a cleaner user interface.
+- Can have information imported and exported from and to many text files.
 
 ## Getting Started
 
@@ -31,5 +30,5 @@ To run the Manager's Tool on your local machine, follow these steps:
 3. Type "javac interface.java" to compile the code.
 4. Type "java interface.java' to run the program.
 
-# Feedback
+### Feedback
 - For any feedback contact me at: omarelasfaregy17@gmail.com or @onaromara on instagream
