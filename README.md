@@ -1,4 +1,4 @@
-# Linked-List-Project1 - Manager's Tool
+# ObjectOrientedProgramming1 - Store Manager's Tool
 
 ## Project Description
 
