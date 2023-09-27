@@ -33,4 +33,4 @@ To run the Manager's Tool on your local machine, follow these steps:
 4. Type "java interface.java' to run the program.
 
 ### Feedback
-- For any feedback contact me at: omarelasfaregy17@gmail.com or @onaromara on instagream
+- For any feedback contact me at: omarelasfaregy17@gmail.com or @onaromara on instagram
