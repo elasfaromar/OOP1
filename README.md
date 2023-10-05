@@ -1,4 +1,4 @@
-# ObjectOrientedProgramming1 - Store Manager's Tool
+# Store Manager's Tool
 
 ## Project Description
 
